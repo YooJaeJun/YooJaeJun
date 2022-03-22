@@ -1,3 +1,3 @@
 Hello, My name is Jaejun Yoo.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zoflqldks123)](https://solved.ac/zoflqldks123)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=zoflqldks123)
