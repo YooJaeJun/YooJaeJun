@@ -3,13 +3,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=zoflqldks123)](https://solved.ac/zoflqldks123)
 
-
-안녕하세요, 게임 클라이언트 지원자 유재준입니다.
-
-※ Unreal 4 포트폴리오 영상
-https://yoojaejun.github.io/Portfolio/Unreal4/
-
-※ DirectX 11 2D 포트폴리오 영상
-https://yoojaejun.github.io/Portfolio/DirectX112D/
-
-※ 포트폴리오 소스코드: 하단 Pinned 참고
+게임 엔진 개발
